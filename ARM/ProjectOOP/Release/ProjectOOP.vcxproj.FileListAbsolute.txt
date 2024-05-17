@@ -1,0 +1,12 @@
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Dobabit_tovar.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Dostavka.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Input.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Menedzher.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Oplata.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Prosmotr_Tovarov.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Proverka_zakaza.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Redactor_tovarov.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.Sozdaniye_Zakaza.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.StMeneger.resources
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.vcxproj.GenerateResource.cache
+C:\Users\Настя\source\repos\ProjectOOP\Release\ProjectOOP.exe
