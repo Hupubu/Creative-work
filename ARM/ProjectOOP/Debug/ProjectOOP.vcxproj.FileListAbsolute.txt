@@ -1,0 +1,13 @@
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.vcxproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.exe
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Input.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.vcxproj.GenerateResource.cache
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.StMeneger.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Menedzher.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Prosmotr_Tovarov.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Sozdaniye_Zakaza.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Oplata.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Proverka_zakaza.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Dostavka.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Redactor_tovarov.resources
+C:\Users\Настя\source\repos\ProjectOOP\Debug\ProjectOOP.Dobabit_tovar.resources
