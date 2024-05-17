@@ -1,0 +1,247 @@
+﻿  MainForm.cpp
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(721,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(777,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(859,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(860,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(889,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(955,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(961,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(1021,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(1046,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(1039,25): warning C4101: indexUzel2: неиспользованная локальная переменная
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(1039,13): warning C4101: indexUzel1: неиспользованная локальная переменная
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(499,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(495): message : во время компиляции функции-члена класс шаблон "void Graph<int>::InsertUzel(const T &,const int,const int,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(806): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::InsertUzel(const T &,const int,const int,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(662): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(442,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(441): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetUzelPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(835): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetUzelPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(576,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(571): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Print(System::Windows::Forms::TextBox ^)"
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(731): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Print(System::Windows::Forms::TextBox ^)"
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(582,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(587,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(538,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(526): message : во время компиляции функции-члена класс шаблон "void Graph<int>::lnsertRebro(const T &,const T &,const int &,const int,const int,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(880): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::lnsertRebro(const T &,const T &,const int &,const int,const int,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(606,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(602): message : во время компиляции функции-члена класс шаблон "void Graph<int>::DeleteUzel(const int)"
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(1031): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::DeleteUzel(const int)"
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(610,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(394,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(390): message : во время компиляции функции-члена класс шаблон "void Graph<int>::DFS(T,bool *,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(787): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::DFS(T,bool *,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(414,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(404): message : во время компиляции функции-члена класс шаблон "void Graph<int>::BFS(T,bool *,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(794): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::BFS(T,bool *,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(379,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(378): message : во время компиляции функции-члена класс шаблон "void Graph<int>::RedactVesRebro(const int &,const int &,const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(1061): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::RedactVesRebro(const int &,const int &,const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(323,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(303): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Dijkstra(T,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(800): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Dijkstra(T,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(353,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(199,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(197): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::matrixSmezhostyWeight(void)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(773): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::matrixSmezhostyWeight(void)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(201,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(366,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(360): message : во время компиляции функции-члена класс шаблон "std::vector<int,std::allocator<_Ty>> Graph<int>::GetNbrs(const T &)"
+          with
+          [
+              _Ty=int,
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(393): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<int,std::allocator<_Ty>> Graph<int>::GetNbrs(const T &)"
+          with
+          [
+              _Ty=int,
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(495): message : во время компиляции функции-члена класс шаблон "void Graph<int>::InsertUzel(const T &,const int,const int,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(806): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::InsertUzel(const T &,const int,const int,System::Windows::Forms::TextBox ^)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(296,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(293): message : во время компиляции функции-члена класс шаблон "bool Graph<int>::AllVisited(std::vector<bool,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=bool
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(316): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::AllVisited(std::vector<bool,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=bool
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(266,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(264): message : во время компиляции функции-члена класс шаблон "std::vector<int,std::allocator<_Ty>> Graph<int>::MinI(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(127): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<int,std::allocator<_Ty>> Graph<int>::MinI(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(269,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(250,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(248): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::ReductLinesMatrix(std::vector<_Ty,std::allocator<_Ty>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(128): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::ReductLinesMatrix(std::vector<_Ty,std::allocator<_Ty>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(252,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(231,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(229): message : во время компиляции функции-члена класс шаблон "std::vector<int,std::allocator<_Ty>> Graph<int>::MinJ(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(129): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<int,std::allocator<_Ty>> Graph<int>::MinJ(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(234,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(215,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(213): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::ReductColumnsMatrix(std::vector<_Ty,std::allocator<_Ty>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(130): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::ReductColumnsMatrix(std::vector<_Ty,std::allocator<_Ty>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(217,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(154,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(152): message : во время компиляции функции-члена класс шаблон "std::pair<int,int> Graph<int>::NullNaib(std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(131): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int> Graph<int>::NullNaib(std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(156,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(161,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(167,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(185,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(92): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::ReductMatrix(std::pair<int,int> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(132): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> Graph<int>::ReductMatrix(std::pair<int,int> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(97,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(109,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(106): message : во время компиляции функции-члена класс шаблон "std::vector<int,std::allocator<_Ty>> Graph<int>::PreparationWays(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(143): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<int,std::allocator<_Ty>> Graph<int>::PreparationWays(std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(81): message : во время компиляции функции-члена класс шаблон "int Graph<int>::LengthWay(std::vector<int,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(144): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::LengthWay(std::vector<int,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(464): warning C4715: Graph<int>::GetIncidentRebry: значение возвращается не при всех путях выполнения
+C:\Users\Настя\source\repos\Komivoyazhor\MainForm.cpp(149): warning C4715: Graph<int>::Komivoyazhor: значение возвращается не при всех путях выполнения
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Komivoyazhor.vcxproj -> C:\Users\Настя\source\repos\Komivoyazhor\Release\Komivoyazhor.exe
